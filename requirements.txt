@@ -2,4 +2,3 @@ matplotlib
 sklearn
 numpy
 cvxopt
-pylab
