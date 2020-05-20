@@ -1,6 +1,5 @@
 matplotlib
 sklearn
 numpy
-random
 cvxopt
 pylab
