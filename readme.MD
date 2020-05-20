@@ -12,6 +12,6 @@ installing pip, follow the tutorial here:
 [PIP](https://pip.pypa.io/en/stable/installing/)
 
 then, install the dependencies:  
-`pip3 install requirements.txt`
+`pip3 -r install requirements.txt`
 
 
